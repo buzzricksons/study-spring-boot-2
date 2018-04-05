@@ -6,7 +6,6 @@ import static com.codeborne.selenide.Selenide.open;
 public class SampleControllerTests {
     @Test
     public void testSampleController() {
-        open("localhost:11080");
-
+//        open("localhost:11080");
     }
 }
